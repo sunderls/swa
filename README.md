@@ -14,7 +14,7 @@ following demo is just a PoC demo
 
 # Demo
 
-here is a [demo](https://sunderls.github.io/swa/swa.html)
+here is a [demo](https://sunderls.github.io/swa/demo/host.html)
 
 ![Jan-31-2020 01-58-13](https://user-images.githubusercontent.com/2394070/73471737-3123ae00-43cd-11ea-9d80-673c504a229f.gif)
 
